@@ -30,7 +30,7 @@ background-color: #ffffff;
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5
@@ -52,11 +52,11 @@ background-color: #ffffff;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: inherit;
+        color: #2e2f42;
 }
 
 adress{
-    font-style: normal
+    font-style: normal;
 }
 
 .contacts-list-link {
@@ -204,7 +204,8 @@ footer{
     background: #2e2f42;
 }
 .logo-studio-footer{
-    color:#2e2f42
+    color:#f4f4fd;
+    line-height: 1.17
 }
 .footer-description{
     font-family: "Roboto", sans-serif;
@@ -212,6 +213,6 @@ footer{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #fff;
+        color: #F4F4FD;
 }
 /*===========FOOTER SECTION STYLE==============*/
