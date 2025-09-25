@@ -1,0 +1,208 @@
+/*=========="DEFAULT" STYLE SET==============*/
+ul,
+ol{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    cursor: pointer;
+}
+
+body{
+Font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+background-color: #ffffff;
+}
+/*==========/"DEFAULT" STYLE SET==============*/
+
+
+/*===========PAGE HEADER STYLE==============*/
+.page-logo
+{
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: inherit
+}
+
+.logo-web-color{
+    color: #4d5ae5;
+}
+
+.menu-nav-link{
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: inherit;
+}
+
+
+.contacts-list-link {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-style:normal;
+    color: #434455;
+}
+
+.menu-nav-link:hover,
+.menu-nav-link:focus,
+.contacts-list-link:hover,
+.contacts-list-link:focus {
+
+    color: #404bbf;
+}
+/*===========/PAGE HEADER STYLE==============*/
+
+
+/*===========HERO SECTION STYLE==============*/
+.hero-section{
+    background-color: #2e2f42;
+}
+.hero-section-heading{
+    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07143;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
+.hero-section-button{
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background: #4d5ae5;
+}
+/*===========/HERO SECTION STYLE==============*/
+
+
+/*===========BENEFITS SECTION STYLE==============*/
+.benefits-section-heading{
+   color:#fff;
+}
+.benefits-item-heading{
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+.benefits-item-description{
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+/*===========/BENEFITS SECTION STYLE==============*/
+
+
+/*===========TEAM SECTION STYLE==============*/
+.team-section{
+    background: #f4f4fd;
+}
+.team-section-heading{
+    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+.team-list-item{
+    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+        background: #fff;
+}
+.team-item-heading{
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+.team-item-description{
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;
+}
+/*===========/TEAM SECTION STYLE==============*/
+
+/*===========PORTFOLIO SECTION STYLE==============*/
+.portfolio-section-heading{
+    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+.portfolio-item-heading{
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+.portfolio-item-description{
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+/*===========/PORTFOLIO SECTION STYLE==============*/
+
+/*===========FOOTER SECTION STYLE==============*/
+footer{
+    background: #2e2f42;
+}
+.footer-page-logo{
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #f4f4fd;
+}
+.footer-description{
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
+}
+/*===========FOOTER SECTION STYLE==============*/
