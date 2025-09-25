@@ -55,7 +55,7 @@ background-color: #ffffff;
         color: #2e2f42;
 }
 
-adress{
+address{
     font-style: normal;
 }
 
@@ -200,7 +200,7 @@ adress{
 /*===========/PORTFOLIO SECTION STYLE==============*/
 
 /*===========FOOTER SECTION STYLE==============*/
-footer{
+.benefits-item-description{
     background: #2e2f42;
 }
 .logo-studio-footer{
